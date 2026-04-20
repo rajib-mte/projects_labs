@@ -25,8 +25,8 @@
 LiquidCrystal_I2C lcd(0x27, 20, 4);
 
 // WiFi credentials
-char ssid[] = "Raju";
-char pass[] = "@@ra7282ju@@";
+char ssid[] = "esp32";
+char pass[] = "123456789";
 
 // Blynk Virtual Pins
 #define VPIN_VOLTAGE      V0
